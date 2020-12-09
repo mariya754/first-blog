@@ -11,6 +11,15 @@ body {
 header {
     border-bottom: 1px solid #d18e8e;
     margin-bottom: 2rem;
+    display: flex;
+}
+
+.nav-left{
+    margin-right: auto;
+}
+.nav-right{
+    display: flex;
+    padding-top: 2rem;
 }
 
 .post-entry {
